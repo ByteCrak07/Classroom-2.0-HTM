@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  color: aqua;
+}
+
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+@font-face {
+  font-family: Momcake;
+  src: url(./fonts/MOMCAKE-Bold.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: Momcake;
+  src: url(./fonts/MOMCAKE-Thin.otf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ Regular\ Italic\ Trial.ttf);
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ Regular\ Trial.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ SemiLight\ Italic\ Trial.ttf);
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ SemiLight\ Trial.ttf);
+  font-weight: 300;
+}
+/* ibde */
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ Thin\ Italic\ Trial.ttf);
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ Thin\ Trial.ttf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ Light\ Italic\ Trial.ttf);
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: Cocogoose;
+  src: url(./fonts/Cocogoose\ Pro\ Light\ Trial.ttf);
+  font-weight: 200;
+}

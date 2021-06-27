@@ -1,0 +1,34 @@
+.sidenav {
+  background-color: #b0c0c2;
+  padding: 2rem 0.2rem;
+  padding-bottom: 3rem;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  border-top-right-radius: 20px;
+}
+
+.circle-avatar-sm {
+  height: 64px;
+  width: 64px;
+  background-color: blue;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 30px;
+  margin-top: 0;
+}
+
+.sidenav .menu {
+  padding: 40px 15px 0 30px;
+  display: flex;
+  overflow: hidden;
+  height: 67px;
+}
+
+.sidenav .menu h6 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  margin: 0 20px;
+}

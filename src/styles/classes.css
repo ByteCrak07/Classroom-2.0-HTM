@@ -1,0 +1,65 @@
+.class {
+  width: 80%;
+  height: 30vh;
+  background-color: #92adb0;
+  margin: 6px;
+  display: grid;
+  place-content: center;
+  border-radius: 10px;
+
+  cursor: pointer;
+}
+
+.class h2 {
+  font-size: 2rem;
+  -webkit-text-stroke: 0px rgb(94, 90, 90);
+  -webkit-text-fill-color: rgb(255, 255, 255);
+}
+.add-class {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: #383838;
+  position: relative;
+}
+.add-class svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.classrooms {
+  margin-left: 14rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+
+  grid-template-areas: "c1 c2 c3 c4" "c5 plus . .";
+}
+
+.S1 {
+  grid-area: c1;
+}
+.S2 {
+  grid-area: c2;
+}
+.S3 {
+  grid-area: c3;
+}
+.S4 {
+  grid-area: c4;
+}
+.S5 {
+  grid-area: c5;
+}
+.plus {
+  grid-area: plus;
+
+  display: grid;
+  place-items: center;
+}
+
+.add-class {
+  display: grid;
+  place-items: center;
+}
