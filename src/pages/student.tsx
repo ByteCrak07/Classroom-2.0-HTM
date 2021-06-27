@@ -13,7 +13,7 @@ const Student: React.FC = () => {
           <div>
             <BsPersonFill />
           </div>
-          <h2>Welcome Abil</h2>
+          <h2>Welcome Student</h2>
         </div>
       </div>
       <Classes />
