@@ -1,6 +1,4 @@
-# C L A S S R O O M  2.0
-
-
+# C L A S S R O O M 2.0
 
 ## 🤔 A ubiquitous problem
 
@@ -72,6 +70,10 @@ We could learn a lot in such a short time. We were able to learn new technologie
 - Examination mode with face detection and disabled voice channels so that exams can be held in a rightful and efficient way.
 - We are also planning to include a feature that shows the network connectivity status of each student.
 - An alerting system that alerts teachers to give a break to students from extended screen times.
+
+## 📺 Presentation
+
+[View Presentation](https://drive.google.com/file/d/1r8hpJRM-aXyflYx7hAV-c88_BT_2Z2lQ/view?usp=sharing) 👈
 
 ## ⚙ Built with
 
